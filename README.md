@@ -25,5 +25,5 @@ This project demonstrates the end-to-end workflow of WebGIS publishing using **A
 
 ## 🌐 Live HTML Web Map
 
-👉 **[View Web Page on GitHub Pages](https://ohz-1234.github.io/LAB8-refined-huzhao/lab8_huzhao.html)**  
+👉 **[View Web Page on GitHub Pages](https://github.com/OHZ-1234/LAB8-refined-huzhao/blob/main/finalVersion)**  
 > This page embeds the map in a standalone HTML document for submission/demo purposes.
