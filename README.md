@@ -2,9 +2,9 @@
 Refined by HuZhao
 # TAMU WebGIS Lab 8 – Campus Feature Map
 
-This is the final submission for **GEOG 478 WebGIS Lab 8**.
+This is the final submission for **GEOG 700 WebGIS Lab 8**.
 
-## 🗺️ Project Description
+## Project Description
 
 This project demonstrates the end-to-end workflow of WebGIS publishing using **ArcGIS Pro** and **ArcGIS Online**, covering:
 
