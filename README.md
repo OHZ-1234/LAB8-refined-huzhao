@@ -18,7 +18,7 @@ This project demonstrates the end-to-end workflow of WebGIS publishing using **A
 
 ## 🔗 Live Map on ArcGIS Online
 
-▶️ **[Click to View the Interactive Map](https://arcg.is/z15Gn)**  
+▶️ **[Click to View the Interactive Map]([https://arcg.is/z15Gn])**  
 > Published via ArcGIS Pro → Shared as Web Feature Layer → Hosted on ArcGIS Online
 
 ---
